@@ -2,6 +2,9 @@
 
 Requires a licensed, working copy of the General Algebraic Modeling System (GAMS) software.
 
+If you use this code please cite:
+
+*Nguyen Ngoc Que and Rich, K.M. 2018. Vietnam Pig Model 2018. Hanoi, Vietnam: ILRI. https://hdl.handle.net/10568/111133.*
 
 ## Acknowledgement
 
