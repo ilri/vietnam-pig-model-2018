@@ -10,6 +10,8 @@ If you use this code please cite:
 
 This research was conducted as part of the [CGIAR](https://www.cgiar.org/) Research Program on Livestock and is supported by contributors to the [CGIAR Trust Fund](https://www.cgiar.org/funders/). CGIAR is a global research partnership for a food-secure future. Its science is carried out by 15 Research Centers in close collaboration with hundreds of partners across the globe.
 
+A previous version of this research was funded by the [Food and Agriculture Organization of the United Nations](http://www.fao.org/home/en/).
+
 
 ## License
 This work is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
